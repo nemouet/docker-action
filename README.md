@@ -1,2 +1,2 @@
 # docker-action
-Test
+Test -apd
